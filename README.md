@@ -1,12 +1,6 @@
-### 👋
-
+<hr>
 <h4 align="center">
  
-  <!-- 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
- --> 
-<hr>
-
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/lucasmarinsnave)](https://www.facebook.com/lucas.santosmarins.79)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/lucasmarinsnave)](https://www.instagram.com/lucassantosmarins/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lucasmarinsnave)](https://www.linkedin.com/in/lucasmarins/)
@@ -14,12 +8,8 @@
 -->
 </h4>
 
-<h3 align="center">  <br>
+### Olá, eu sou o Lucas! 🇧🇷 👋
 
-Olá, eu sou o Lucas! 🇧🇷
-<br>
-
-</h3>
 Analista de Dados e Desenvolvedor de Software
 
 ## Com as Tecnologias:  💻
@@ -52,7 +42,7 @@ Analista de Dados e Desenvolvedor de Software
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmarinsnave&show_icons=true&theme=tokyonight)
 </span> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmarinsnave&show_icons=true&theme=tokyonight)
+![lucasmarinsnave's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmarinsnave&show_icons=true&theme=tokyonight)
 [![lucasmarinsnave](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarinsnave&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/lucasmarinsnave/)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarinsnave&layout=compact&theme=tokyonight) -->
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)

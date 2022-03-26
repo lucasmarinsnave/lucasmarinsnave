@@ -24,8 +24,7 @@ Analista de Dados e Desenvolvedor de Software
 
 ## Com as Tecnologias:  💻
 
-  - HTML
-  - CSS
+  - HTML / CSS
   - JavaScript
   - PostgreSQL
   - Python

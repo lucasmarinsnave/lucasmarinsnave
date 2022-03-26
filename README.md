@@ -10,9 +10,9 @@
 
 ### Olá, eu sou o Lucas! 🇧🇷 👋
 
-Analista de Dados e Desenvolvedor de Software
+<b> Analista de Dados e Desenvolvedor de Software </b>
 
-## Com as Tecnologias:  💻
+### Com as Tecnologias:  💻
 
   - HTML / CSS
   - JavaScript
@@ -21,7 +21,7 @@ Analista de Dados e Desenvolvedor de Software
   - Ruby on Rails
   - C#
 
-## Estudando:
+### Estudando:
   - React
   - Flask
   - Django
@@ -42,8 +42,8 @@ Analista de Dados e Desenvolvedor de Software
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmarinsnave&show_icons=true&theme=tokyonight)
 </span> -->
 
-![lucasmarinsnave's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmarinsnave&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-[![lucasmarinsnave](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarinsnave&hide=html&layout=compact=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/lucasmarinsnave/)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarinsnave&theme=tokyonight&count_private=true&include_all_commits=true) -->
+![lucasmarinsnave's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmarinsnave&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
+[![lucasmarinsnave](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarinsnave&count_private=true&include_all_commits=true&layout=compact=true&theme=tokyonight)](https://github.com/lucasmarinsnave/)
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 

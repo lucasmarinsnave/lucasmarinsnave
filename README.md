@@ -21,7 +21,7 @@
   - Ruby on Rails
   - C#
 
-### Estudando:
+### E estudando:
   - React
   - Flask
   - Django
